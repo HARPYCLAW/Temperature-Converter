@@ -1,0 +1,58 @@
+body{
+    background: url("backkk.jpg");
+}
+
+.heading{
+    font-size: 36px;
+    font-weight: bold;
+    background-color: #B9732F;
+    margin-top: 50px;
+    box-shadow: 10px 10px 5px rgb(110, 112, 112);
+    margin-bottom: 0px;
+}
+
+label{
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form{
+    background: #29648A;
+    height: 360px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-shadow: 10px 10px 5px rgb(110, 112, 112);
+}
+
+input{
+    color: #29648A;
+    background: #EDF6FF;
+}
+
+input:focus
+{
+    border: 3px solid #464866;
+    box-shadow: 0 0 3px #1670BE;
+    outline-offset: 0px;
+    outline: none;
+}
+
+select{
+    color: #B9732F;
+    font-weight: bold;
+    background: #EDF6FF;
+}
+
+select{
+    width: 160px;
+}
+
+#result{
+    font-weight: bold;
+    color: black;
+    height: 40px;
+    text-align: center;
+    font-size: large;
+}
